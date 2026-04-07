@@ -1,10 +1,12 @@
 {
   "name": "tuktuk-tracking-api",
   "version": "1.0.0",
-  "description": "A centralized, RESTful API platform built for **Sri Lanka Police** to track registered three-wheelers (tuk-tuks) in real time, log movement history, and support law enforcement investigations across provinces and districts.",
-  "main": "index.js",
+  "description": "A centralized, RESTful API platform built for Sri Lanka Police to track registered three-wheelers (tuk-tuks) in real time, log movement history, and support law enforcement investigations across provinces and districts.",
+  "main": "server.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
