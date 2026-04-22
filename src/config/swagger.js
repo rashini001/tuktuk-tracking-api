@@ -10,7 +10,7 @@ const options = {
     },
     servers: [
   {
-    url: 'https://tuktuk-tracking-api.up.railway.app',
+    url: 'https://tuktuk-tracking-api-production.up.railway.app',
     description: 'Production Server'
   },
   {
