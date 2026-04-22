@@ -9,11 +9,15 @@ const options = {
       description: 'Real-Time Three-Wheeler Tracking & Movement Logging System for Sri Lanka Police'
     },
     servers: [
-      {
-        url: 'http://localhost:5000',
-        description: 'Development Server'
-      }
-    ],
+  {
+    url: 'https://tuktuk-tracking-api.up.railway.app',
+    description: 'Production Server'
+  },
+  {
+    url: 'http://localhost:5000',
+    description: 'Development Server'
+  }
+],
     components: {
       securitySchemes: {
         bearerAuth: {
