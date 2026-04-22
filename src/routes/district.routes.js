@@ -1,16 +1,13 @@
 import express from 'express';
-<<<<<<< Updated upstream
-import { getLiveLocations } from '../controllers/district.controller.js';
-import { protect } from '../middleware/auth.js';
-
-const router = express.Router();
-router.get('/live', protect, getLiveLocations);
-=======
 import {
   getAllDistricts,
-  getDistrictById
+  getDistrictById,
+  createDistrict,
+  updateDistrict,
+  deleteDistrict
 } from '../controllers/district.controller.js';
 import { protect } from '../middleware/auth.js';
+import { authorize } from '../middleware/roles.js';
 
 const router = express.Router();
 
@@ -25,14 +22,37 @@ const router = express.Router();
  *         name: province
  *         schema:
  *           type: string
- *         description: Filter districts by province ID
+ *         description: Filter by province ID
  *     responses:
  *       200:
  *         description: List of all 25 districts
- *       401:
- *         description: Unauthorized
  */
 router.get('/', protect, getAllDistricts);
+
+/**
+ * @swagger
+ * /api/districts:
+ *   post:
+ *     summary: Create a new district
+ *     tags: [Districts]
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               name:
+ *                 type: string
+ *               code:
+ *                 type: string
+ *               province:
+ *                 type: string
+ *     responses:
+ *       201:
+ *         description: District created
+ */
+router.post('/', protect, authorize('hq_admin'), createDistrict);
 
 /**
  * @swagger
@@ -53,6 +73,41 @@ router.get('/', protect, getAllDistricts);
  *         description: District not found
  */
 router.get('/:id', protect, getDistrictById);
->>>>>>> Stashed changes
+
+/**
+ * @swagger
+ * /api/districts/{id}:
+ *   put:
+ *     summary: Update a district
+ *     tags: [Districts]
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: string
+ *     responses:
+ *       200:
+ *         description: District updated
+ */
+router.put('/:id', protect, authorize('hq_admin'), updateDistrict);
+
+/**
+ * @swagger
+ * /api/districts/{id}:
+ *   delete:
+ *     summary: Delete a district
+ *     tags: [Districts]
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: string
+ *     responses:
+ *       200:
+ *         description: District deleted
+ */
+router.delete('/:id', protect, authorize('hq_admin'), deleteDistrict);
 
 export default router;
