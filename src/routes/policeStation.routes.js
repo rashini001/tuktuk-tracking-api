@@ -5,7 +5,7 @@ import {
   getStationById,
   updateStation,
   deleteStation
-} from '../controllers/policeStation.controller.js';
+} from '../controllers/station.controller.js';
 import { protect } from '../middleware/auth.js';
 import { authorize } from '../middleware/roles.js';
 
