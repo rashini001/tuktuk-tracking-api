@@ -1,0 +1,4002 @@
+[
+  {
+    "_id": "69e880cac2c6df98e8cefbf8",
+    "registrationNumber": "TK-0001",
+    "ownerName": "Owner 1",
+    "ownerNIC": "900000001V",
+    "ownerContact": "0768322110",
+    "deviceId": "DEVICE-0001",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fc",
+      "name": "Anuradhapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.280Z",
+    "updatedAt": "2026-04-22T08:03:22.280Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefbf9",
+    "registrationNumber": "TK-0002",
+    "ownerName": "Owner 2",
+    "ownerNIC": "900000002V",
+    "ownerContact": "0715008777",
+    "deviceId": "DEVICE-0002",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ef",
+      "name": "Galle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.281Z",
+    "updatedAt": "2026-04-22T08:03:22.281Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefbfa",
+    "registrationNumber": "TK-0003",
+    "ownerName": "Owner 3",
+    "ownerNIC": "900000003V",
+    "ownerContact": "0719625118",
+    "deviceId": "DEVICE-0003",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ea",
+      "name": "Gampaha"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.281Z",
+    "updatedAt": "2026-04-22T08:03:22.281Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefbfb",
+    "registrationNumber": "TK-0004",
+    "ownerName": "Owner 4",
+    "ownerNIC": "900000004V",
+    "ownerContact": "0724226319",
+    "deviceId": "DEVICE-0004",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ec",
+      "name": "Kandy"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.281Z",
+    "updatedAt": "2026-04-22T08:03:22.281Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefbfc",
+    "registrationNumber": "TK-0005",
+    "ownerName": "Owner 5",
+    "ownerNIC": "900000005V",
+    "ownerContact": "0748693641",
+    "deviceId": "DEVICE-0005",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f7",
+      "name": "Batticaloa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.281Z",
+    "updatedAt": "2026-04-22T08:03:22.281Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefbfd",
+    "registrationNumber": "TK-0006",
+    "ownerName": "Owner 6",
+    "ownerNIC": "900000006V",
+    "ownerContact": "0782365470",
+    "deviceId": "DEVICE-0006",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f4",
+      "name": "Mannar"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.281Z",
+    "updatedAt": "2026-04-22T08:03:22.281Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefbfe",
+    "registrationNumber": "TK-0007",
+    "ownerName": "Owner 7",
+    "ownerNIC": "900000007V",
+    "ownerContact": "0775810372",
+    "deviceId": "DEVICE-0007",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ed",
+      "name": "Matale"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.281Z",
+    "updatedAt": "2026-04-22T08:03:22.281Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefbff",
+    "registrationNumber": "TK-0008",
+    "ownerName": "Owner 8",
+    "ownerNIC": "900000008V",
+    "ownerContact": "0734853078",
+    "deviceId": "DEVICE-0008",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ec",
+      "name": "Kandy"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.281Z",
+    "updatedAt": "2026-04-22T08:03:22.281Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc00",
+    "registrationNumber": "TK-0009",
+    "ownerName": "Owner 9",
+    "ownerNIC": "900000009V",
+    "ownerContact": "0723046457",
+    "deviceId": "DEVICE-0009",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f7",
+      "name": "Batticaloa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.281Z",
+    "updatedAt": "2026-04-22T08:03:22.281Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc01",
+    "registrationNumber": "TK-0010",
+    "ownerName": "Owner 10",
+    "ownerNIC": "900000010V",
+    "ownerContact": "0763349272",
+    "deviceId": "DEVICE-0010",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ea",
+      "name": "Gampaha"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.281Z",
+    "updatedAt": "2026-04-22T08:03:22.281Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc02",
+    "registrationNumber": "TK-0011",
+    "ownerName": "Owner 11",
+    "ownerNIC": "900000011V",
+    "ownerContact": "0743904285",
+    "deviceId": "DEVICE-0011",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f4",
+      "name": "Mannar"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc03",
+    "registrationNumber": "TK-0012",
+    "ownerName": "Owner 12",
+    "ownerNIC": "900000012V",
+    "ownerContact": "0767324377",
+    "deviceId": "DEVICE-0012",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f7",
+      "name": "Batticaloa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc04",
+    "registrationNumber": "TK-0013",
+    "ownerName": "Owner 13",
+    "ownerNIC": "900000013V",
+    "ownerContact": "0718727555",
+    "deviceId": "DEVICE-0013",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f8",
+      "name": "Ampara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc05",
+    "registrationNumber": "TK-0014",
+    "ownerName": "Owner 14",
+    "ownerNIC": "900000014V",
+    "ownerContact": "0772147470",
+    "deviceId": "DEVICE-0014",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f5",
+      "name": "Mullaitivu"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc06",
+    "registrationNumber": "TK-0015",
+    "ownerName": "Owner 15",
+    "ownerNIC": "900000015V",
+    "ownerContact": "0795840541",
+    "deviceId": "DEVICE-0015",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ed",
+      "name": "Matale"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc07",
+    "registrationNumber": "TK-0016",
+    "ownerName": "Owner 16",
+    "ownerNIC": "900000016V",
+    "ownerContact": "0739714670",
+    "deviceId": "DEVICE-0016",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f9",
+      "name": "Trincomalee"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc08",
+    "registrationNumber": "TK-0017",
+    "ownerName": "Owner 17",
+    "ownerNIC": "900000017V",
+    "ownerContact": "0791991900",
+    "deviceId": "DEVICE-0017",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f9",
+      "name": "Trincomalee"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc09",
+    "registrationNumber": "TK-0018",
+    "ownerName": "Owner 18",
+    "ownerNIC": "900000018V",
+    "ownerContact": "0773034192",
+    "deviceId": "DEVICE-0018",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fb",
+      "name": "Puttalam"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc0a",
+    "registrationNumber": "TK-0019",
+    "ownerName": "Owner 19",
+    "ownerNIC": "900000019V",
+    "ownerContact": "0757975884",
+    "deviceId": "DEVICE-0019",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fa",
+      "name": "Kurunegala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc0b",
+    "registrationNumber": "TK-0020",
+    "ownerName": "Owner 20",
+    "ownerNIC": "900000020V",
+    "ownerContact": "0754196568",
+    "deviceId": "DEVICE-0020",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc0c",
+    "registrationNumber": "TK-0021",
+    "ownerName": "Owner 21",
+    "ownerNIC": "900000021V",
+    "ownerContact": "0780455815",
+    "deviceId": "DEVICE-0021",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f8",
+      "name": "Ampara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc0d",
+    "registrationNumber": "TK-0022",
+    "ownerName": "Owner 22",
+    "ownerNIC": "900000022V",
+    "ownerContact": "0774598450",
+    "deviceId": "DEVICE-0022",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc0e",
+    "registrationNumber": "TK-0023",
+    "ownerName": "Owner 23",
+    "ownerNIC": "900000023V",
+    "ownerContact": "0736144037",
+    "deviceId": "DEVICE-0023",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895e9",
+      "name": "Colombo"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc0f",
+    "registrationNumber": "TK-0024",
+    "ownerName": "Owner 24",
+    "ownerNIC": "900000024V",
+    "ownerContact": "0797768027",
+    "deviceId": "DEVICE-0024",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f7",
+      "name": "Batticaloa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc10",
+    "registrationNumber": "TK-0025",
+    "ownerName": "Owner 25",
+    "ownerNIC": "900000025V",
+    "ownerContact": "0774577056",
+    "deviceId": "DEVICE-0025",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f0",
+      "name": "Matara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc11",
+    "registrationNumber": "TK-0026",
+    "ownerName": "Owner 26",
+    "ownerNIC": "900000026V",
+    "ownerContact": "0763443403",
+    "deviceId": "DEVICE-0026",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f5",
+      "name": "Mullaitivu"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc12",
+    "registrationNumber": "TK-0027",
+    "ownerName": "Owner 27",
+    "ownerNIC": "900000027V",
+    "ownerContact": "0764649609",
+    "deviceId": "DEVICE-0027",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fd",
+      "name": "Polonnaruwa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc13",
+    "registrationNumber": "TK-0028",
+    "ownerName": "Owner 28",
+    "ownerNIC": "900000028V",
+    "ownerContact": "0772846221",
+    "deviceId": "DEVICE-0028",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f1",
+      "name": "Hambantota"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc14",
+    "registrationNumber": "TK-0029",
+    "ownerName": "Owner 29",
+    "ownerNIC": "900000029V",
+    "ownerContact": "0711810343",
+    "deviceId": "DEVICE-0029",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489600",
+      "name": "Ratnapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc15",
+    "registrationNumber": "TK-0030",
+    "ownerName": "Owner 30",
+    "ownerNIC": "900000030V",
+    "ownerContact": "0781574769",
+    "deviceId": "DEVICE-0030",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489600",
+      "name": "Ratnapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc16",
+    "registrationNumber": "TK-0031",
+    "ownerName": "Owner 31",
+    "ownerNIC": "900000031V",
+    "ownerContact": "0764200662",
+    "deviceId": "DEVICE-0031",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fb",
+      "name": "Puttalam"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc17",
+    "registrationNumber": "TK-0032",
+    "ownerName": "Owner 32",
+    "ownerNIC": "900000032V",
+    "ownerContact": "0738863006",
+    "deviceId": "DEVICE-0032",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489601",
+      "name": "Kegalle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc18",
+    "registrationNumber": "TK-0033",
+    "ownerName": "Owner 33",
+    "ownerNIC": "900000033V",
+    "ownerContact": "0747761734",
+    "deviceId": "DEVICE-0033",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489600",
+      "name": "Ratnapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc19",
+    "registrationNumber": "TK-0034",
+    "ownerName": "Owner 34",
+    "ownerNIC": "900000034V",
+    "ownerContact": "0759967613",
+    "deviceId": "DEVICE-0034",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fc",
+      "name": "Anuradhapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc1a",
+    "registrationNumber": "TK-0035",
+    "ownerName": "Owner 35",
+    "ownerNIC": "900000035V",
+    "ownerContact": "0716294238",
+    "deviceId": "DEVICE-0035",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ea",
+      "name": "Gampaha"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc1b",
+    "registrationNumber": "TK-0036",
+    "ownerName": "Owner 36",
+    "ownerNIC": "900000036V",
+    "ownerContact": "0753032205",
+    "deviceId": "DEVICE-0036",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc1c",
+    "registrationNumber": "TK-0037",
+    "ownerName": "Owner 37",
+    "ownerNIC": "900000037V",
+    "ownerContact": "0741420058",
+    "deviceId": "DEVICE-0037",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ff",
+      "name": "Monaragala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.282Z",
+    "updatedAt": "2026-04-22T08:03:22.282Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc1d",
+    "registrationNumber": "TK-0038",
+    "ownerName": "Owner 38",
+    "ownerNIC": "900000038V",
+    "ownerContact": "0787491380",
+    "deviceId": "DEVICE-0038",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fb",
+      "name": "Puttalam"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc1e",
+    "registrationNumber": "TK-0039",
+    "ownerName": "Owner 39",
+    "ownerNIC": "900000039V",
+    "ownerContact": "0719278472",
+    "deviceId": "DEVICE-0039",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f7",
+      "name": "Batticaloa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc1f",
+    "registrationNumber": "TK-0040",
+    "ownerName": "Owner 40",
+    "ownerNIC": "900000040V",
+    "ownerContact": "0783841831",
+    "deviceId": "DEVICE-0040",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f1",
+      "name": "Hambantota"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc20",
+    "registrationNumber": "TK-0041",
+    "ownerName": "Owner 41",
+    "ownerNIC": "900000041V",
+    "ownerContact": "0718549186",
+    "deviceId": "DEVICE-0041",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc21",
+    "registrationNumber": "TK-0042",
+    "ownerName": "Owner 42",
+    "ownerNIC": "900000042V",
+    "ownerContact": "0761123736",
+    "deviceId": "DEVICE-0042",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ed",
+      "name": "Matale"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc22",
+    "registrationNumber": "TK-0043",
+    "ownerName": "Owner 43",
+    "ownerNIC": "900000043V",
+    "ownerContact": "0750954506",
+    "deviceId": "DEVICE-0043",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f1",
+      "name": "Hambantota"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc23",
+    "registrationNumber": "TK-0044",
+    "ownerName": "Owner 44",
+    "ownerNIC": "900000044V",
+    "ownerContact": "0723994030",
+    "deviceId": "DEVICE-0044",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f4",
+      "name": "Mannar"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc24",
+    "registrationNumber": "TK-0045",
+    "ownerName": "Owner 45",
+    "ownerNIC": "900000045V",
+    "ownerContact": "0728073608",
+    "deviceId": "DEVICE-0045",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc25",
+    "registrationNumber": "TK-0046",
+    "ownerName": "Owner 46",
+    "ownerNIC": "900000046V",
+    "ownerContact": "0776201945",
+    "deviceId": "DEVICE-0046",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895eb",
+      "name": "Kalutara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc26",
+    "registrationNumber": "TK-0047",
+    "ownerName": "Owner 47",
+    "ownerNIC": "900000047V",
+    "ownerContact": "0792882331",
+    "deviceId": "DEVICE-0047",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895eb",
+      "name": "Kalutara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc27",
+    "registrationNumber": "TK-0048",
+    "ownerName": "Owner 48",
+    "ownerNIC": "900000048V",
+    "ownerContact": "0773392670",
+    "deviceId": "DEVICE-0048",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc28",
+    "registrationNumber": "TK-0049",
+    "ownerName": "Owner 49",
+    "ownerNIC": "900000049V",
+    "ownerContact": "0769861152",
+    "deviceId": "DEVICE-0049",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489601",
+      "name": "Kegalle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc29",
+    "registrationNumber": "TK-0050",
+    "ownerName": "Owner 50",
+    "ownerNIC": "900000050V",
+    "ownerContact": "0749891890",
+    "deviceId": "DEVICE-0050",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f2",
+      "name": "Jaffna"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc2a",
+    "registrationNumber": "TK-0051",
+    "ownerName": "Owner 51",
+    "ownerNIC": "900000051V",
+    "ownerContact": "0723928283",
+    "deviceId": "DEVICE-0051",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f0",
+      "name": "Matara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc2b",
+    "registrationNumber": "TK-0052",
+    "ownerName": "Owner 52",
+    "ownerNIC": "900000052V",
+    "ownerContact": "0792234228",
+    "deviceId": "DEVICE-0052",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f4",
+      "name": "Mannar"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc2c",
+    "registrationNumber": "TK-0053",
+    "ownerName": "Owner 53",
+    "ownerNIC": "900000053V",
+    "ownerContact": "0777600925",
+    "deviceId": "DEVICE-0053",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fd",
+      "name": "Polonnaruwa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc2d",
+    "registrationNumber": "TK-0054",
+    "ownerName": "Owner 54",
+    "ownerNIC": "900000054V",
+    "ownerContact": "0794993696",
+    "deviceId": "DEVICE-0054",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ff",
+      "name": "Monaragala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc2e",
+    "registrationNumber": "TK-0055",
+    "ownerName": "Owner 55",
+    "ownerNIC": "900000055V",
+    "ownerContact": "0734943363",
+    "deviceId": "DEVICE-0055",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fa",
+      "name": "Kurunegala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc2f",
+    "registrationNumber": "TK-0056",
+    "ownerName": "Owner 56",
+    "ownerNIC": "900000056V",
+    "ownerContact": "0785778149",
+    "deviceId": "DEVICE-0056",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895eb",
+      "name": "Kalutara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc30",
+    "registrationNumber": "TK-0057",
+    "ownerName": "Owner 57",
+    "ownerNIC": "900000057V",
+    "ownerContact": "0726951725",
+    "deviceId": "DEVICE-0057",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fb",
+      "name": "Puttalam"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc31",
+    "registrationNumber": "TK-0058",
+    "ownerName": "Owner 58",
+    "ownerNIC": "900000058V",
+    "ownerContact": "0753904799",
+    "deviceId": "DEVICE-0058",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f8",
+      "name": "Ampara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc32",
+    "registrationNumber": "TK-0059",
+    "ownerName": "Owner 59",
+    "ownerNIC": "900000059V",
+    "ownerContact": "0787147513",
+    "deviceId": "DEVICE-0059",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fe",
+      "name": "Badulla"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc33",
+    "registrationNumber": "TK-0060",
+    "ownerName": "Owner 60",
+    "ownerNIC": "900000060V",
+    "ownerContact": "0758759159",
+    "deviceId": "DEVICE-0060",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ef",
+      "name": "Galle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc34",
+    "registrationNumber": "TK-0061",
+    "ownerName": "Owner 61",
+    "ownerNIC": "900000061V",
+    "ownerContact": "0727291091",
+    "deviceId": "DEVICE-0061",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc35",
+    "registrationNumber": "TK-0062",
+    "ownerName": "Owner 62",
+    "ownerNIC": "900000062V",
+    "ownerContact": "0735748608",
+    "deviceId": "DEVICE-0062",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ed",
+      "name": "Matale"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc36",
+    "registrationNumber": "TK-0063",
+    "ownerName": "Owner 63",
+    "ownerNIC": "900000063V",
+    "ownerContact": "0778076978",
+    "deviceId": "DEVICE-0063",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fe",
+      "name": "Badulla"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc37",
+    "registrationNumber": "TK-0064",
+    "ownerName": "Owner 64",
+    "ownerNIC": "900000064V",
+    "ownerContact": "0763170564",
+    "deviceId": "DEVICE-0064",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489601",
+      "name": "Kegalle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc38",
+    "registrationNumber": "TK-0065",
+    "ownerName": "Owner 65",
+    "ownerNIC": "900000065V",
+    "ownerContact": "0730625256",
+    "deviceId": "DEVICE-0065",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489600",
+      "name": "Ratnapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc39",
+    "registrationNumber": "TK-0066",
+    "ownerName": "Owner 66",
+    "ownerNIC": "900000066V",
+    "ownerContact": "0749914776",
+    "deviceId": "DEVICE-0066",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f9",
+      "name": "Trincomalee"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc3a",
+    "registrationNumber": "TK-0067",
+    "ownerName": "Owner 67",
+    "ownerNIC": "900000067V",
+    "ownerContact": "0784129008",
+    "deviceId": "DEVICE-0067",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fc",
+      "name": "Anuradhapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc3b",
+    "registrationNumber": "TK-0068",
+    "ownerName": "Owner 68",
+    "ownerNIC": "900000068V",
+    "ownerContact": "0798004786",
+    "deviceId": "DEVICE-0068",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f5",
+      "name": "Mullaitivu"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc3c",
+    "registrationNumber": "TK-0069",
+    "ownerName": "Owner 69",
+    "ownerNIC": "900000069V",
+    "ownerContact": "0785790174",
+    "deviceId": "DEVICE-0069",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f4",
+      "name": "Mannar"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc3d",
+    "registrationNumber": "TK-0070",
+    "ownerName": "Owner 70",
+    "ownerNIC": "900000070V",
+    "ownerContact": "0760768794",
+    "deviceId": "DEVICE-0070",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489600",
+      "name": "Ratnapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc3e",
+    "registrationNumber": "TK-0071",
+    "ownerName": "Owner 71",
+    "ownerNIC": "900000071V",
+    "ownerContact": "0763629539",
+    "deviceId": "DEVICE-0071",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f5",
+      "name": "Mullaitivu"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc3f",
+    "registrationNumber": "TK-0072",
+    "ownerName": "Owner 72",
+    "ownerNIC": "900000072V",
+    "ownerContact": "0755496535",
+    "deviceId": "DEVICE-0072",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.283Z",
+    "updatedAt": "2026-04-22T08:03:22.283Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc40",
+    "registrationNumber": "TK-0073",
+    "ownerName": "Owner 73",
+    "ownerNIC": "900000073V",
+    "ownerContact": "0711338247",
+    "deviceId": "DEVICE-0073",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc41",
+    "registrationNumber": "TK-0074",
+    "ownerName": "Owner 74",
+    "ownerNIC": "900000074V",
+    "ownerContact": "0774316368",
+    "deviceId": "DEVICE-0074",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f7",
+      "name": "Batticaloa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc42",
+    "registrationNumber": "TK-0075",
+    "ownerName": "Owner 75",
+    "ownerNIC": "900000075V",
+    "ownerContact": "0794587384",
+    "deviceId": "DEVICE-0075",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f6",
+      "name": "Vavuniya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc43",
+    "registrationNumber": "TK-0076",
+    "ownerName": "Owner 76",
+    "ownerNIC": "900000076V",
+    "ownerContact": "0731547537",
+    "deviceId": "DEVICE-0076",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fc",
+      "name": "Anuradhapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc44",
+    "registrationNumber": "TK-0077",
+    "ownerName": "Owner 77",
+    "ownerNIC": "900000077V",
+    "ownerContact": "0730086748",
+    "deviceId": "DEVICE-0077",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fa",
+      "name": "Kurunegala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc45",
+    "registrationNumber": "TK-0078",
+    "ownerName": "Owner 78",
+    "ownerNIC": "900000078V",
+    "ownerContact": "0778407059",
+    "deviceId": "DEVICE-0078",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ff",
+      "name": "Monaragala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc46",
+    "registrationNumber": "TK-0079",
+    "ownerName": "Owner 79",
+    "ownerNIC": "900000079V",
+    "ownerContact": "0749535618",
+    "deviceId": "DEVICE-0079",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f5",
+      "name": "Mullaitivu"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc47",
+    "registrationNumber": "TK-0080",
+    "ownerName": "Owner 80",
+    "ownerNIC": "900000080V",
+    "ownerContact": "0758115607",
+    "deviceId": "DEVICE-0080",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f0",
+      "name": "Matara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc48",
+    "registrationNumber": "TK-0081",
+    "ownerName": "Owner 81",
+    "ownerNIC": "900000081V",
+    "ownerContact": "0787176242",
+    "deviceId": "DEVICE-0081",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc49",
+    "registrationNumber": "TK-0082",
+    "ownerName": "Owner 82",
+    "ownerNIC": "900000082V",
+    "ownerContact": "0777939741",
+    "deviceId": "DEVICE-0082",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ff",
+      "name": "Monaragala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc4a",
+    "registrationNumber": "TK-0083",
+    "ownerName": "Owner 83",
+    "ownerNIC": "900000083V",
+    "ownerContact": "0752510414",
+    "deviceId": "DEVICE-0083",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f1",
+      "name": "Hambantota"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc4b",
+    "registrationNumber": "TK-0084",
+    "ownerName": "Owner 84",
+    "ownerNIC": "900000084V",
+    "ownerContact": "0799777638",
+    "deviceId": "DEVICE-0084",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489600",
+      "name": "Ratnapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc4c",
+    "registrationNumber": "TK-0085",
+    "ownerName": "Owner 85",
+    "ownerNIC": "900000085V",
+    "ownerContact": "0726728430",
+    "deviceId": "DEVICE-0085",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc4d",
+    "registrationNumber": "TK-0086",
+    "ownerName": "Owner 86",
+    "ownerNIC": "900000086V",
+    "ownerContact": "0741376376",
+    "deviceId": "DEVICE-0086",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc4e",
+    "registrationNumber": "TK-0087",
+    "ownerName": "Owner 87",
+    "ownerNIC": "900000087V",
+    "ownerContact": "0773085846",
+    "deviceId": "DEVICE-0087",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fc",
+      "name": "Anuradhapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc4f",
+    "registrationNumber": "TK-0088",
+    "ownerName": "Owner 88",
+    "ownerNIC": "900000088V",
+    "ownerContact": "0733707555",
+    "deviceId": "DEVICE-0088",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fa",
+      "name": "Kurunegala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc50",
+    "registrationNumber": "TK-0089",
+    "ownerName": "Owner 89",
+    "ownerNIC": "900000089V",
+    "ownerContact": "0761084882",
+    "deviceId": "DEVICE-0089",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ff",
+      "name": "Monaragala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc51",
+    "registrationNumber": "TK-0090",
+    "ownerName": "Owner 90",
+    "ownerNIC": "900000090V",
+    "ownerContact": "0765496549",
+    "deviceId": "DEVICE-0090",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f1",
+      "name": "Hambantota"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc52",
+    "registrationNumber": "TK-0091",
+    "ownerName": "Owner 91",
+    "ownerNIC": "900000091V",
+    "ownerContact": "0762286313",
+    "deviceId": "DEVICE-0091",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fa",
+      "name": "Kurunegala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc53",
+    "registrationNumber": "TK-0092",
+    "ownerName": "Owner 92",
+    "ownerNIC": "900000092V",
+    "ownerContact": "0741773891",
+    "deviceId": "DEVICE-0092",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f9",
+      "name": "Trincomalee"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc54",
+    "registrationNumber": "TK-0093",
+    "ownerName": "Owner 93",
+    "ownerNIC": "900000093V",
+    "ownerContact": "0730557250",
+    "deviceId": "DEVICE-0093",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fd",
+      "name": "Polonnaruwa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc55",
+    "registrationNumber": "TK-0094",
+    "ownerName": "Owner 94",
+    "ownerNIC": "900000094V",
+    "ownerContact": "0711519511",
+    "deviceId": "DEVICE-0094",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f6",
+      "name": "Vavuniya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc56",
+    "registrationNumber": "TK-0095",
+    "ownerName": "Owner 95",
+    "ownerNIC": "900000095V",
+    "ownerContact": "0757564634",
+    "deviceId": "DEVICE-0095",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fc",
+      "name": "Anuradhapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc57",
+    "registrationNumber": "TK-0096",
+    "ownerName": "Owner 96",
+    "ownerNIC": "900000096V",
+    "ownerContact": "0731797467",
+    "deviceId": "DEVICE-0096",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f0",
+      "name": "Matara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc58",
+    "registrationNumber": "TK-0097",
+    "ownerName": "Owner 97",
+    "ownerNIC": "900000097V",
+    "ownerContact": "0741270912",
+    "deviceId": "DEVICE-0097",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc59",
+    "registrationNumber": "TK-0098",
+    "ownerName": "Owner 98",
+    "ownerNIC": "900000098V",
+    "ownerContact": "0795925186",
+    "deviceId": "DEVICE-0098",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ef",
+      "name": "Galle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc5a",
+    "registrationNumber": "TK-0099",
+    "ownerName": "Owner 99",
+    "ownerNIC": "900000099V",
+    "ownerContact": "0719958246",
+    "deviceId": "DEVICE-0099",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc5b",
+    "registrationNumber": "TK-0100",
+    "ownerName": "Owner 100",
+    "ownerNIC": "900000100V",
+    "ownerContact": "0746166537",
+    "deviceId": "DEVICE-0100",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fd",
+      "name": "Polonnaruwa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc5c",
+    "registrationNumber": "TK-0101",
+    "ownerName": "Owner 101",
+    "ownerNIC": "900000101V",
+    "ownerContact": "0757489281",
+    "deviceId": "DEVICE-0101",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895e9",
+      "name": "Colombo"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc5d",
+    "registrationNumber": "TK-0102",
+    "ownerName": "Owner 102",
+    "ownerNIC": "900000102V",
+    "ownerContact": "0749570637",
+    "deviceId": "DEVICE-0102",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc5e",
+    "registrationNumber": "TK-0103",
+    "ownerName": "Owner 103",
+    "ownerNIC": "900000103V",
+    "ownerContact": "0762469483",
+    "deviceId": "DEVICE-0103",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f5",
+      "name": "Mullaitivu"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc5f",
+    "registrationNumber": "TK-0104",
+    "ownerName": "Owner 104",
+    "ownerNIC": "900000104V",
+    "ownerContact": "0766095970",
+    "deviceId": "DEVICE-0104",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc60",
+    "registrationNumber": "TK-0105",
+    "ownerName": "Owner 105",
+    "ownerNIC": "900000105V",
+    "ownerContact": "0737877003",
+    "deviceId": "DEVICE-0105",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fc",
+      "name": "Anuradhapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc61",
+    "registrationNumber": "TK-0106",
+    "ownerName": "Owner 106",
+    "ownerNIC": "900000106V",
+    "ownerContact": "0720431522",
+    "deviceId": "DEVICE-0106",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895e9",
+      "name": "Colombo"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc62",
+    "registrationNumber": "TK-0107",
+    "ownerName": "Owner 107",
+    "ownerNIC": "900000107V",
+    "ownerContact": "0731651473",
+    "deviceId": "DEVICE-0107",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fa",
+      "name": "Kurunegala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc63",
+    "registrationNumber": "TK-0108",
+    "ownerName": "Owner 108",
+    "ownerNIC": "900000108V",
+    "ownerContact": "0765608834",
+    "deviceId": "DEVICE-0108",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f9",
+      "name": "Trincomalee"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.284Z",
+    "updatedAt": "2026-04-22T08:03:22.284Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc64",
+    "registrationNumber": "TK-0109",
+    "ownerName": "Owner 109",
+    "ownerNIC": "900000109V",
+    "ownerContact": "0734194606",
+    "deviceId": "DEVICE-0109",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895eb",
+      "name": "Kalutara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc65",
+    "registrationNumber": "TK-0110",
+    "ownerName": "Owner 110",
+    "ownerNIC": "900000110V",
+    "ownerContact": "0734369559",
+    "deviceId": "DEVICE-0110",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f7",
+      "name": "Batticaloa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc66",
+    "registrationNumber": "TK-0111",
+    "ownerName": "Owner 111",
+    "ownerNIC": "900000111V",
+    "ownerContact": "0796522208",
+    "deviceId": "DEVICE-0111",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fe",
+      "name": "Badulla"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc67",
+    "registrationNumber": "TK-0112",
+    "ownerName": "Owner 112",
+    "ownerNIC": "900000112V",
+    "ownerContact": "0745481206",
+    "deviceId": "DEVICE-0112",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f9",
+      "name": "Trincomalee"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc68",
+    "registrationNumber": "TK-0113",
+    "ownerName": "Owner 113",
+    "ownerNIC": "900000113V",
+    "ownerContact": "0757764204",
+    "deviceId": "DEVICE-0113",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc69",
+    "registrationNumber": "TK-0114",
+    "ownerName": "Owner 114",
+    "ownerNIC": "900000114V",
+    "ownerContact": "0755394082",
+    "deviceId": "DEVICE-0114",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ed",
+      "name": "Matale"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc6a",
+    "registrationNumber": "TK-0115",
+    "ownerName": "Owner 115",
+    "ownerNIC": "900000115V",
+    "ownerContact": "0743799681",
+    "deviceId": "DEVICE-0115",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ef",
+      "name": "Galle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc6b",
+    "registrationNumber": "TK-0116",
+    "ownerName": "Owner 116",
+    "ownerNIC": "900000116V",
+    "ownerContact": "0716498435",
+    "deviceId": "DEVICE-0116",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc6c",
+    "registrationNumber": "TK-0117",
+    "ownerName": "Owner 117",
+    "ownerNIC": "900000117V",
+    "ownerContact": "0755273252",
+    "deviceId": "DEVICE-0117",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f7",
+      "name": "Batticaloa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc6d",
+    "registrationNumber": "TK-0118",
+    "ownerName": "Owner 118",
+    "ownerNIC": "900000118V",
+    "ownerContact": "0776569195",
+    "deviceId": "DEVICE-0118",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ff",
+      "name": "Monaragala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc6e",
+    "registrationNumber": "TK-0119",
+    "ownerName": "Owner 119",
+    "ownerNIC": "900000119V",
+    "ownerContact": "0715410797",
+    "deviceId": "DEVICE-0119",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc6f",
+    "registrationNumber": "TK-0120",
+    "ownerName": "Owner 120",
+    "ownerNIC": "900000120V",
+    "ownerContact": "0785961418",
+    "deviceId": "DEVICE-0120",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fb",
+      "name": "Puttalam"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc70",
+    "registrationNumber": "TK-0121",
+    "ownerName": "Owner 121",
+    "ownerNIC": "900000121V",
+    "ownerContact": "0758667561",
+    "deviceId": "DEVICE-0121",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fc",
+      "name": "Anuradhapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc71",
+    "registrationNumber": "TK-0122",
+    "ownerName": "Owner 122",
+    "ownerNIC": "900000122V",
+    "ownerContact": "0726843291",
+    "deviceId": "DEVICE-0122",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ed",
+      "name": "Matale"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc72",
+    "registrationNumber": "TK-0123",
+    "ownerName": "Owner 123",
+    "ownerNIC": "900000123V",
+    "ownerContact": "0743869343",
+    "deviceId": "DEVICE-0123",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489600",
+      "name": "Ratnapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc73",
+    "registrationNumber": "TK-0124",
+    "ownerName": "Owner 124",
+    "ownerNIC": "900000124V",
+    "ownerContact": "0775913961",
+    "deviceId": "DEVICE-0124",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f1",
+      "name": "Hambantota"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc74",
+    "registrationNumber": "TK-0125",
+    "ownerName": "Owner 125",
+    "ownerNIC": "900000125V",
+    "ownerContact": "0712556455",
+    "deviceId": "DEVICE-0125",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f2",
+      "name": "Jaffna"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc75",
+    "registrationNumber": "TK-0126",
+    "ownerName": "Owner 126",
+    "ownerNIC": "900000126V",
+    "ownerContact": "0729699480",
+    "deviceId": "DEVICE-0126",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f8",
+      "name": "Ampara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc76",
+    "registrationNumber": "TK-0127",
+    "ownerName": "Owner 127",
+    "ownerNIC": "900000127V",
+    "ownerContact": "0773074561",
+    "deviceId": "DEVICE-0127",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fc",
+      "name": "Anuradhapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc77",
+    "registrationNumber": "TK-0128",
+    "ownerName": "Owner 128",
+    "ownerNIC": "900000128V",
+    "ownerContact": "0788332094",
+    "deviceId": "DEVICE-0128",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f7",
+      "name": "Batticaloa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc78",
+    "registrationNumber": "TK-0129",
+    "ownerName": "Owner 129",
+    "ownerNIC": "900000129V",
+    "ownerContact": "0767707408",
+    "deviceId": "DEVICE-0129",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ed",
+      "name": "Matale"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc79",
+    "registrationNumber": "TK-0130",
+    "ownerName": "Owner 130",
+    "ownerNIC": "900000130V",
+    "ownerContact": "0723526859",
+    "deviceId": "DEVICE-0130",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc7a",
+    "registrationNumber": "TK-0131",
+    "ownerName": "Owner 131",
+    "ownerNIC": "900000131V",
+    "ownerContact": "0756842395",
+    "deviceId": "DEVICE-0131",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f2",
+      "name": "Jaffna"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc7b",
+    "registrationNumber": "TK-0132",
+    "ownerName": "Owner 132",
+    "ownerNIC": "900000132V",
+    "ownerContact": "0744780005",
+    "deviceId": "DEVICE-0132",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc7c",
+    "registrationNumber": "TK-0133",
+    "ownerName": "Owner 133",
+    "ownerNIC": "900000133V",
+    "ownerContact": "0714291308",
+    "deviceId": "DEVICE-0133",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f8",
+      "name": "Ampara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc7d",
+    "registrationNumber": "TK-0134",
+    "ownerName": "Owner 134",
+    "ownerNIC": "900000134V",
+    "ownerContact": "0738423085",
+    "deviceId": "DEVICE-0134",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fc",
+      "name": "Anuradhapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc7e",
+    "registrationNumber": "TK-0135",
+    "ownerName": "Owner 135",
+    "ownerNIC": "900000135V",
+    "ownerContact": "0721739384",
+    "deviceId": "DEVICE-0135",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f8",
+      "name": "Ampara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc7f",
+    "registrationNumber": "TK-0136",
+    "ownerName": "Owner 136",
+    "ownerNIC": "900000136V",
+    "ownerContact": "0741917670",
+    "deviceId": "DEVICE-0136",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895e9",
+      "name": "Colombo"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc80",
+    "registrationNumber": "TK-0137",
+    "ownerName": "Owner 137",
+    "ownerNIC": "900000137V",
+    "ownerContact": "0777237605",
+    "deviceId": "DEVICE-0137",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fd",
+      "name": "Polonnaruwa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.285Z",
+    "updatedAt": "2026-04-22T08:03:22.285Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc81",
+    "registrationNumber": "TK-0138",
+    "ownerName": "Owner 138",
+    "ownerNIC": "900000138V",
+    "ownerContact": "0756446285",
+    "deviceId": "DEVICE-0138",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f9",
+      "name": "Trincomalee"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc82",
+    "registrationNumber": "TK-0139",
+    "ownerName": "Owner 139",
+    "ownerNIC": "900000139V",
+    "ownerContact": "0744239941",
+    "deviceId": "DEVICE-0139",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc83",
+    "registrationNumber": "TK-0140",
+    "ownerName": "Owner 140",
+    "ownerNIC": "900000140V",
+    "ownerContact": "0785518418",
+    "deviceId": "DEVICE-0140",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f1",
+      "name": "Hambantota"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc84",
+    "registrationNumber": "TK-0141",
+    "ownerName": "Owner 141",
+    "ownerNIC": "900000141V",
+    "ownerContact": "0741729197",
+    "deviceId": "DEVICE-0141",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895e9",
+      "name": "Colombo"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc85",
+    "registrationNumber": "TK-0142",
+    "ownerName": "Owner 142",
+    "ownerNIC": "900000142V",
+    "ownerContact": "0737767008",
+    "deviceId": "DEVICE-0142",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fe",
+      "name": "Badulla"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc86",
+    "registrationNumber": "TK-0143",
+    "ownerName": "Owner 143",
+    "ownerNIC": "900000143V",
+    "ownerContact": "0712943269",
+    "deviceId": "DEVICE-0143",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ff",
+      "name": "Monaragala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc87",
+    "registrationNumber": "TK-0144",
+    "ownerName": "Owner 144",
+    "ownerNIC": "900000144V",
+    "ownerContact": "0712805094",
+    "deviceId": "DEVICE-0144",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fc",
+      "name": "Anuradhapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc88",
+    "registrationNumber": "TK-0145",
+    "ownerName": "Owner 145",
+    "ownerNIC": "900000145V",
+    "ownerContact": "0755650752",
+    "deviceId": "DEVICE-0145",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895eb",
+      "name": "Kalutara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc89",
+    "registrationNumber": "TK-0146",
+    "ownerName": "Owner 146",
+    "ownerNIC": "900000146V",
+    "ownerContact": "0722430150",
+    "deviceId": "DEVICE-0146",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f9",
+      "name": "Trincomalee"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc8a",
+    "registrationNumber": "TK-0147",
+    "ownerName": "Owner 147",
+    "ownerNIC": "900000147V",
+    "ownerContact": "0750663236",
+    "deviceId": "DEVICE-0147",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895e9",
+      "name": "Colombo"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc8b",
+    "registrationNumber": "TK-0148",
+    "ownerName": "Owner 148",
+    "ownerNIC": "900000148V",
+    "ownerContact": "0766687260",
+    "deviceId": "DEVICE-0148",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc8c",
+    "registrationNumber": "TK-0149",
+    "ownerName": "Owner 149",
+    "ownerNIC": "900000149V",
+    "ownerContact": "0749296163",
+    "deviceId": "DEVICE-0149",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc8d",
+    "registrationNumber": "TK-0150",
+    "ownerName": "Owner 150",
+    "ownerNIC": "900000150V",
+    "ownerContact": "0772929725",
+    "deviceId": "DEVICE-0150",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ef",
+      "name": "Galle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc8e",
+    "registrationNumber": "TK-0151",
+    "ownerName": "Owner 151",
+    "ownerNIC": "900000151V",
+    "ownerContact": "0729272185",
+    "deviceId": "DEVICE-0151",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f2",
+      "name": "Jaffna"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc8f",
+    "registrationNumber": "TK-0152",
+    "ownerName": "Owner 152",
+    "ownerNIC": "900000152V",
+    "ownerContact": "0779614684",
+    "deviceId": "DEVICE-0152",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895eb",
+      "name": "Kalutara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc90",
+    "registrationNumber": "TK-0153",
+    "ownerName": "Owner 153",
+    "ownerNIC": "900000153V",
+    "ownerContact": "0750201997",
+    "deviceId": "DEVICE-0153",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f5",
+      "name": "Mullaitivu"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc91",
+    "registrationNumber": "TK-0154",
+    "ownerName": "Owner 154",
+    "ownerNIC": "900000154V",
+    "ownerContact": "0787222074",
+    "deviceId": "DEVICE-0154",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fa",
+      "name": "Kurunegala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc92",
+    "registrationNumber": "TK-0155",
+    "ownerName": "Owner 155",
+    "ownerNIC": "900000155V",
+    "ownerContact": "0768473530",
+    "deviceId": "DEVICE-0155",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc93",
+    "registrationNumber": "TK-0156",
+    "ownerName": "Owner 156",
+    "ownerNIC": "900000156V",
+    "ownerContact": "0798062298",
+    "deviceId": "DEVICE-0156",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc94",
+    "registrationNumber": "TK-0157",
+    "ownerName": "Owner 157",
+    "ownerNIC": "900000157V",
+    "ownerContact": "0736246658",
+    "deviceId": "DEVICE-0157",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ef",
+      "name": "Galle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc95",
+    "registrationNumber": "TK-0158",
+    "ownerName": "Owner 158",
+    "ownerNIC": "900000158V",
+    "ownerContact": "0765072742",
+    "deviceId": "DEVICE-0158",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc96",
+    "registrationNumber": "TK-0159",
+    "ownerName": "Owner 159",
+    "ownerNIC": "900000159V",
+    "ownerContact": "0730771933",
+    "deviceId": "DEVICE-0159",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ef",
+      "name": "Galle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.286Z",
+    "updatedAt": "2026-04-22T08:03:22.286Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc97",
+    "registrationNumber": "TK-0160",
+    "ownerName": "Owner 160",
+    "ownerNIC": "900000160V",
+    "ownerContact": "0754571352",
+    "deviceId": "DEVICE-0160",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fb",
+      "name": "Puttalam"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc98",
+    "registrationNumber": "TK-0161",
+    "ownerName": "Owner 161",
+    "ownerNIC": "900000161V",
+    "ownerContact": "0775814987",
+    "deviceId": "DEVICE-0161",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fb",
+      "name": "Puttalam"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc99",
+    "registrationNumber": "TK-0162",
+    "ownerName": "Owner 162",
+    "ownerNIC": "900000162V",
+    "ownerContact": "0786009354",
+    "deviceId": "DEVICE-0162",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ea",
+      "name": "Gampaha"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc9a",
+    "registrationNumber": "TK-0163",
+    "ownerName": "Owner 163",
+    "ownerNIC": "900000163V",
+    "ownerContact": "0711098828",
+    "deviceId": "DEVICE-0163",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f7",
+      "name": "Batticaloa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc9b",
+    "registrationNumber": "TK-0164",
+    "ownerName": "Owner 164",
+    "ownerNIC": "900000164V",
+    "ownerContact": "0711660029",
+    "deviceId": "DEVICE-0164",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489601",
+      "name": "Kegalle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc9c",
+    "registrationNumber": "TK-0165",
+    "ownerName": "Owner 165",
+    "ownerNIC": "900000165V",
+    "ownerContact": "0727376397",
+    "deviceId": "DEVICE-0165",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f9",
+      "name": "Trincomalee"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc9d",
+    "registrationNumber": "TK-0166",
+    "ownerName": "Owner 166",
+    "ownerNIC": "900000166V",
+    "ownerContact": "0761583156",
+    "deviceId": "DEVICE-0166",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895eb",
+      "name": "Kalutara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc9e",
+    "registrationNumber": "TK-0167",
+    "ownerName": "Owner 167",
+    "ownerNIC": "900000167V",
+    "ownerContact": "0788726653",
+    "deviceId": "DEVICE-0167",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ef",
+      "name": "Galle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefc9f",
+    "registrationNumber": "TK-0168",
+    "ownerName": "Owner 168",
+    "ownerNIC": "900000168V",
+    "ownerContact": "0797011786",
+    "deviceId": "DEVICE-0168",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f0",
+      "name": "Matara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefca0",
+    "registrationNumber": "TK-0169",
+    "ownerName": "Owner 169",
+    "ownerNIC": "900000169V",
+    "ownerContact": "0717341252",
+    "deviceId": "DEVICE-0169",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fb",
+      "name": "Puttalam"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefca1",
+    "registrationNumber": "TK-0170",
+    "ownerName": "Owner 170",
+    "ownerNIC": "900000170V",
+    "ownerContact": "0711353302",
+    "deviceId": "DEVICE-0170",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ff",
+      "name": "Monaragala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefca2",
+    "registrationNumber": "TK-0171",
+    "ownerName": "Owner 171",
+    "ownerNIC": "900000171V",
+    "ownerContact": "0723514429",
+    "deviceId": "DEVICE-0171",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895e9",
+      "name": "Colombo"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefca3",
+    "registrationNumber": "TK-0172",
+    "ownerName": "Owner 172",
+    "ownerNIC": "900000172V",
+    "ownerContact": "0794792979",
+    "deviceId": "DEVICE-0172",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ef",
+      "name": "Galle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefca4",
+    "registrationNumber": "TK-0173",
+    "ownerName": "Owner 173",
+    "ownerNIC": "900000173V",
+    "ownerContact": "0728499363",
+    "deviceId": "DEVICE-0173",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefca5",
+    "registrationNumber": "TK-0174",
+    "ownerName": "Owner 174",
+    "ownerNIC": "900000174V",
+    "ownerContact": "0764947991",
+    "deviceId": "DEVICE-0174",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f8",
+      "name": "Ampara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefca6",
+    "registrationNumber": "TK-0175",
+    "ownerName": "Owner 175",
+    "ownerNIC": "900000175V",
+    "ownerContact": "0719734947",
+    "deviceId": "DEVICE-0175",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f2",
+      "name": "Jaffna"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefca7",
+    "registrationNumber": "TK-0176",
+    "ownerName": "Owner 176",
+    "ownerNIC": "900000176V",
+    "ownerContact": "0796558829",
+    "deviceId": "DEVICE-0176",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f1",
+      "name": "Hambantota"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefca8",
+    "registrationNumber": "TK-0177",
+    "ownerName": "Owner 177",
+    "ownerNIC": "900000177V",
+    "ownerContact": "0772679257",
+    "deviceId": "DEVICE-0177",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895e9",
+      "name": "Colombo"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefca9",
+    "registrationNumber": "TK-0178",
+    "ownerName": "Owner 178",
+    "ownerNIC": "900000178V",
+    "ownerContact": "0744064250",
+    "deviceId": "DEVICE-0178",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f7",
+      "name": "Batticaloa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcaa",
+    "registrationNumber": "TK-0179",
+    "ownerName": "Owner 179",
+    "ownerNIC": "900000179V",
+    "ownerContact": "0766465142",
+    "deviceId": "DEVICE-0179",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895eb",
+      "name": "Kalutara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.287Z",
+    "updatedAt": "2026-04-22T08:03:22.287Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcab",
+    "registrationNumber": "TK-0180",
+    "ownerName": "Owner 180",
+    "ownerNIC": "900000180V",
+    "ownerContact": "0738783396",
+    "deviceId": "DEVICE-0180",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ff",
+      "name": "Monaragala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.288Z",
+    "updatedAt": "2026-04-22T08:03:22.288Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcac",
+    "registrationNumber": "TK-0181",
+    "ownerName": "Owner 181",
+    "ownerNIC": "900000181V",
+    "ownerContact": "0778004974",
+    "deviceId": "DEVICE-0181",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f6",
+      "name": "Vavuniya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.288Z",
+    "updatedAt": "2026-04-22T08:03:22.288Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcad",
+    "registrationNumber": "TK-0182",
+    "ownerName": "Owner 182",
+    "ownerNIC": "900000182V",
+    "ownerContact": "0797259455",
+    "deviceId": "DEVICE-0182",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ff",
+      "name": "Monaragala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.288Z",
+    "updatedAt": "2026-04-22T08:03:22.288Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcae",
+    "registrationNumber": "TK-0183",
+    "ownerName": "Owner 183",
+    "ownerNIC": "900000183V",
+    "ownerContact": "0759195813",
+    "deviceId": "DEVICE-0183",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f1",
+      "name": "Hambantota"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.288Z",
+    "updatedAt": "2026-04-22T08:03:22.288Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcaf",
+    "registrationNumber": "TK-0184",
+    "ownerName": "Owner 184",
+    "ownerNIC": "900000184V",
+    "ownerContact": "0727808962",
+    "deviceId": "DEVICE-0184",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895eb",
+      "name": "Kalutara"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895de",
+      "name": "Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.288Z",
+    "updatedAt": "2026-04-22T08:03:22.288Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcb0",
+    "registrationNumber": "TK-0185",
+    "ownerName": "Owner 185",
+    "ownerNIC": "900000185V",
+    "ownerContact": "0796408340",
+    "deviceId": "DEVICE-0185",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ff",
+      "name": "Monaragala"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e5",
+      "name": "Uva"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.288Z",
+    "updatedAt": "2026-04-22T08:03:22.288Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcb1",
+    "registrationNumber": "TK-0186",
+    "ownerName": "Owner 186",
+    "ownerNIC": "900000186V",
+    "ownerContact": "0799347291",
+    "deviceId": "DEVICE-0186",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ef",
+      "name": "Galle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.288Z",
+    "updatedAt": "2026-04-22T08:03:22.288Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcb2",
+    "registrationNumber": "TK-0187",
+    "ownerName": "Owner 187",
+    "ownerNIC": "900000187V",
+    "ownerContact": "0769932291",
+    "deviceId": "DEVICE-0187",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fd",
+      "name": "Polonnaruwa"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e4",
+      "name": "North Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.288Z",
+    "updatedAt": "2026-04-22T08:03:22.288Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcb3",
+    "registrationNumber": "TK-0188",
+    "ownerName": "Owner 188",
+    "ownerNIC": "900000188V",
+    "ownerContact": "0750213261",
+    "deviceId": "DEVICE-0188",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f3",
+      "name": "Kilinochchi"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.289Z",
+    "updatedAt": "2026-04-22T08:03:22.289Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcb4",
+    "registrationNumber": "TK-0189",
+    "ownerName": "Owner 189",
+    "ownerNIC": "900000189V",
+    "ownerContact": "0732484590",
+    "deviceId": "DEVICE-0189",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489600",
+      "name": "Ratnapura"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.289Z",
+    "updatedAt": "2026-04-22T08:03:22.289Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcb5",
+    "registrationNumber": "TK-0190",
+    "ownerName": "Owner 190",
+    "ownerNIC": "900000190V",
+    "ownerContact": "0734722507",
+    "deviceId": "DEVICE-0190",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fb",
+      "name": "Puttalam"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.289Z",
+    "updatedAt": "2026-04-22T08:03:22.289Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcb6",
+    "registrationNumber": "TK-0191",
+    "ownerName": "Owner 191",
+    "ownerNIC": "900000191V",
+    "ownerContact": "0728725244",
+    "deviceId": "DEVICE-0191",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ee",
+      "name": "Nuwara Eliya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.289Z",
+    "updatedAt": "2026-04-22T08:03:22.289Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcb7",
+    "registrationNumber": "TK-0192",
+    "ownerName": "Owner 192",
+    "ownerNIC": "900000192V",
+    "ownerContact": "0769269239",
+    "deviceId": "DEVICE-0192",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ef",
+      "name": "Galle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e0",
+      "name": "Southern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.289Z",
+    "updatedAt": "2026-04-22T08:03:22.289Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcb8",
+    "registrationNumber": "TK-0193",
+    "ownerName": "Owner 193",
+    "ownerNIC": "900000193V",
+    "ownerContact": "0751505903",
+    "deviceId": "DEVICE-0193",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f4",
+      "name": "Mannar"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.289Z",
+    "updatedAt": "2026-04-22T08:03:22.289Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcb9",
+    "registrationNumber": "TK-0194",
+    "ownerName": "Owner 194",
+    "ownerNIC": "900000194V",
+    "ownerContact": "0753311548",
+    "deviceId": "DEVICE-0194",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d489601",
+      "name": "Kegalle"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e6",
+      "name": "Sabaragamuwa"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.289Z",
+    "updatedAt": "2026-04-22T08:03:22.289Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcba",
+    "registrationNumber": "TK-0195",
+    "ownerName": "Owner 195",
+    "ownerNIC": "900000195V",
+    "ownerContact": "0737815577",
+    "deviceId": "DEVICE-0195",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f6",
+      "name": "Vavuniya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.289Z",
+    "updatedAt": "2026-04-22T08:03:22.289Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcbb",
+    "registrationNumber": "TK-0196",
+    "ownerName": "Owner 196",
+    "ownerNIC": "900000196V",
+    "ownerContact": "0758104213",
+    "deviceId": "DEVICE-0196",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f4",
+      "name": "Mannar"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.289Z",
+    "updatedAt": "2026-04-22T08:03:22.289Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcbc",
+    "registrationNumber": "TK-0197",
+    "ownerName": "Owner 197",
+    "ownerNIC": "900000197V",
+    "ownerContact": "0732432442",
+    "deviceId": "DEVICE-0197",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f6",
+      "name": "Vavuniya"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e1",
+      "name": "Northern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.289Z",
+    "updatedAt": "2026-04-22T08:03:22.289Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcbd",
+    "registrationNumber": "TK-0198",
+    "ownerName": "Owner 198",
+    "ownerNIC": "900000198V",
+    "ownerContact": "0725602921",
+    "deviceId": "DEVICE-0198",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895fb",
+      "name": "Puttalam"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e3",
+      "name": "North Western"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.289Z",
+    "updatedAt": "2026-04-22T08:03:22.289Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcbe",
+    "registrationNumber": "TK-0199",
+    "ownerName": "Owner 199",
+    "ownerNIC": "900000199V",
+    "ownerContact": "0788902025",
+    "deviceId": "DEVICE-0199",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895ed",
+      "name": "Matale"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895df",
+      "name": "Central"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.290Z",
+    "updatedAt": "2026-04-22T08:03:22.290Z"
+  },
+  {
+    "_id": "69e880cac2c6df98e8cefcbf",
+    "registrationNumber": "TK-0200",
+    "ownerName": "Owner 200",
+    "ownerNIC": "900000200V",
+    "ownerContact": "0773793979",
+    "deviceId": "DEVICE-0200",
+    "homeDistrict": {
+      "_id": "69e880b94fc68f4f0d4895f9",
+      "name": "Trincomalee"
+    },
+    "homeProvince": {
+      "_id": "69e880b94fc68f4f0d4895e2",
+      "name": "Eastern"
+    },
+    "isActive": true,
+    "__v": 0,
+    "createdAt": "2026-04-22T08:03:22.290Z",
+    "updatedAt": "2026-04-22T08:03:22.290Z"
+  }
+]
