@@ -11,11 +11,9 @@ A centralized, RESTful API platform built for **Sri Lanka Police** to track regi
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Environment Variables](#environment-variables)
 - [API Endpoints](#api-endpoints)
 - [Simulation Data](#simulation-data)
 - [Deployment](#deployment)
-- [Branch Guide](#branch-guide)
 - [Author](#author)
 
 ---
@@ -55,7 +53,7 @@ Sri Lanka Police requires operational visibility into registered tuk-tuk movemen
 | Authentication | JWT (JSON Web Tokens) |
 | API Docs | Swagger  |
 | Simulation | Custom Node.js / Bash scripts |
-| Deployment | Render / Railway / Heroku |
+| Deployment | Railway  |
 | Version Control | GitHub |
 
 ---
@@ -116,34 +114,6 @@ node simulation/seed.js
 # 6. Start the development server
 npm run dev
 ```
-
-The API will be available at: `http://localhost:3000`
-
-Swagger docs at: `http://localhost:3000/api-docs`
-
----
-
-## Environment Variables
-
-Create a `.env` file based on `.env.example`:
-
-```env
-PORT=3000
-NODE_ENV=development
-
-# Database
-MONGO_URI=mongodb+srv://<user>:<password>@cluster.mongodb.net/tuktuk_db
-
-# JWT
-JWT_SECRET=your_super_secret_key
-JWT_EXPIRES_IN=7d
-
-# Admin Seed
-ADMIN_EMAIL=admin@police.lk
-ADMIN_PASSWORD=Admin@1234
-```
-
----
 
 ## API Endpoints
 
@@ -214,72 +184,8 @@ node simulation/location-ping.js
 
 The API is deployed and accessible at:
 
-> 🔗 **Live API URL:** `https://your-api-url.onrender.com`  
-> 📄 **Swagger Docs:** `https://your-api-url.onrender.com/api-docs`
-
----
-
-## Branch Guide
-
-### How to Create a New Branch
-
-```bash
-# Step 1: Make sure you are on the main branch and up to date
-git checkout main
-git pull origin main
-
-# Step 2: Create and switch to a new branch
-git checkout -b feature/your-feature-name
-
-# Examples:
-git checkout -b feature/auth-middleware
-git checkout -b feature/location-endpoints
-git checkout -b fix/jwt-expiry-bug
-git checkout -b docs/update-readme
-```
-
-```bash
-# Step 3: Do your work, then stage and commit
-git add .
-git commit -m "feat: add JWT authentication middleware"
-
-# Step 4: Push the branch to GitHub
-git push origin feature/your-feature-name
-```
-
-```bash
-# Step 5: Open a Pull Request on GitHub
-# Go to your repo → Click "Compare & pull request" → Merge into main
-```
-
-### Branch Naming Conventions
-
-| Prefix | Use Case | Example |
-|---|---|---|
-| `feature/` | New functionality | `feature/location-history` |
-| `fix/` | Bug fixes | `fix/token-validation` |
-| `docs/` | Documentation updates | `docs/swagger-spec` |
-| `data/` | Simulation / seed data | `data/seed-vehicles` |
-| `refactor/` | Code improvements | `refactor/controller-logic` |
-
-### Useful Branch Commands
-
-```bash
-# List all local branches
-git branch
-
-# List all branches (including remote)
-git branch -a
-
-# Switch to an existing branch
-git checkout branch-name
-
-# Delete a local branch (after merging)
-git branch -d feature/your-feature-name
-
-# Delete a remote branch
-git push origin --delete feature/your-feature-name
-```
+> 🔗 **Live API URL:** `https://tuktuk-tracking-api-production.up.railway.app`  
+> 📄 **Swagger Docs:** `https://tuktuk-tracking-api-production.up.railway.app/api-docs`
 
 ---
 
